@@ -12,7 +12,7 @@ Crear una matriz de 5x5 randomizada con números enteros, encontrar secuencia de
 números consecutivos horizontal o vertical y si se encuentra mostrar la posición inicial y
 final.
 
-#Nombre: Clases:
+# Nombre: Clases:
 
 Escribir una clase en python llamada círculo que contenga un radio, con un método que
 devuelva el área y otro que devuelva el perímetro del círculo.
